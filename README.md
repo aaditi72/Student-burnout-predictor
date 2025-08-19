@@ -15,10 +15,18 @@ A data-driven web application built with Python and Streamlit that predicts the 
 **[➡️ Click here to launch the Burnout Predictor App](https://student-burnout-predictor-aditichavan.streamlit.app/)**
 
 
-### 📸 Application Screenshot
+### 📸 App Screenshots  
 
-![App Screenshot](https://storage.googleapis.com/gemini-prod/images/409d9491-d852-4416-8051-4043f114620f.png)
-*(Feel free to replace this with your own screenshot after running the app)*
+![App Screenshot 1](https://github.com/aaditi72/Student-burnout-predictor/blob/main/assets/Output_1.png)
+
+![App Screenshot 2](https://github.com/aaditi72/Student-burnout-predictor/blob/main/assets/Output_2.png)  
+
+![App Screenshot 3](https://github.com/aaditi72/Student-burnout-predictor/blob/main/assets/Output_3.png)  
+
+![App Screenshot 4](https://github.com/aaditi72/Student-burnout-predictor/blob/main/assets/Output_4.png)  
+
+![App Screenshot 5](https://github.com/aaditi72/Student-burnout-predictor/blob/main/assets/Output_5.png)  
+
 
 ---
 
@@ -123,7 +131,7 @@ The model was developed following a structured machine learning pipeline:
 
 ### 👤 Author
 
-**[Your Name Here]**
+**[Aditi Chavan]**
 
-*   **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-*   **GitHub:** [github.com/Your-GitHub-Username](https://github.com/Your-GitHub-Username)
+*   **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/aditi-chavan-284977287)
+*   **GitHub:** [github.com/Your-GitHub-Username](https://github.com/aaditi72)
