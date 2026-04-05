@@ -129,9 +129,3 @@ The model was developed following a structured machine learning pipeline:
 
 ---
 
-### 👤 Author
-
-**[Aditi Chavan]**
-
-*   **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/aditi-chavan-284977287)
-*   **GitHub:** [github.com/Your-GitHub-Username](https://github.com/aaditi72)
