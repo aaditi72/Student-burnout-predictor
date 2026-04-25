@@ -2,7 +2,6 @@
 
 [![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.32-red.svg)](https://streamlit.io)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A data-driven web application built with Python and Streamlit that predicts the likelihood of student burnout and provides personalized, actionable advice to help students manage their well-being.
 
